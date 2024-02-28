@@ -24,7 +24,7 @@ public class prg3 {
         int op = 0;
         for(int i = 0;i<prices.length;i++) {
             if (prices[i] < low) {
-                low = prices[i]; // first calculating the first low but prices
+                low = prices[i]; // first calculating the first low buy prices
             }
 
             high = prices[i] - low; /* Then calculating each profit and finding the lowest profit */
