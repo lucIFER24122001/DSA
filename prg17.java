@@ -1,4 +1,4 @@
-class RandomizedSet {
+/*class RandomizedSet {
     private ArrayList<Integer> list;
     private Map<Integer, Integer> map;
 
@@ -36,4 +36,4 @@ class RandomizedSet {
         return list.get(rand.nextInt(list.size()));
 
     }
-}
+}*/
